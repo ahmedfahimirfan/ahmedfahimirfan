@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmedfahimirfan
-- 👀 I’m interested in computer science
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning programming and advanced mathematics
 - 💞️ I’m looking to collaborate on nothing for the time being
 - 📫 How to reach me email:ahmed.bd2002@gmail.com
